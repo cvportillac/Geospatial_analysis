@@ -22,4 +22,4 @@ See each subfolder in `03_Data/` for sources and download instructions.
 
 ## Author
 
-Cristiam Victoriano Portilla Cabrera — Universidad Nacional de Colombia
+Cristiam Victoriano Portilla-Cabrera, Universidad Nacional de Colombia
