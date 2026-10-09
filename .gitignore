@@ -48,3 +48,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# Large data files (stored locally, not versioned)
+03_Data/**/*.nc
+03_Data/**/*.nc4
+03_Data/**/*.h5
+03_Data/**/*.zip
+03_Data/**/*.tif
+!03_Data/**/.gitkeep
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
